@@ -16,6 +16,8 @@
  *        http://patorjk.com/software/taag/#p=display&f=Speed&t=jquery.pep.js
  */
 
+var jQuery = require('jQuery');
+
 ;(function ( $, window, undefined ) {
 
   "use strict";
