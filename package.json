@@ -1,7 +1,7 @@
 {
   "name": "jquery.pep.js",
   "description": "Kinetic drag for mobile & desktop",
-  "version": "0.6.11",
+  "version": "0.6.12",
   "homepage": "http://pep.briangonzalez.org",
   "author": {
     "name": "Brian Gonzalez",
@@ -22,6 +22,7 @@
       "url": "pep.briangonzalez.org/blob/master/LICENSE-MIT"
     }
   ],
+  "main": "src/jquery.pep.js",
   "dependencies": {
     "jquery": "*"
   },
